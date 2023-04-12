@@ -19,4 +19,3 @@ L = [123, "casa", 3.14]
 D = {"com":"ABC", "num":23}
 #D["num"] #Pega o valor da chave "num" que é 23
 #D["cor"] = "azul" #Adiciona chave e valorao final da lista
-
